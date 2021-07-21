@@ -27,7 +27,7 @@ button{
     height: 50px;
     background-color: rgb(255, 238, 0);
     font-family: moonrising;
-    font-size: 1em;
+    font-size: 0.8em;
 }
 
 button:hover{
